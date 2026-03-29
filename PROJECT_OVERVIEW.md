@@ -468,18 +468,17 @@ mawar-t-lite/
 
 ## 👥 TEAM
 
-- **Project Lead**: [Your Name]
-- **Development**: [Team]
-- **Design**: [Team]
+- **Project Lead**: KRISHNA MAWAR
+- **Development**: KRISHNA
+- **Design**: KRISHNA
 
 ---
 
 ## 📞 CONTACT
 
 For questions, suggestions, or collaboration:
-- Email: [your-email]
-- GitHub: [your-repo]
-- Website: [your-site]
+- Email: krishnaawar176@gmail.com
+- GitHub: https://github.com/DarkSpark18/MAWAR-T-Lite
 
 ---
 
